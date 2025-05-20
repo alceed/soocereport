@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 def generate_report(url, table_id,europa,europa2,relegated):
     # Import necessary libraries
     import pandas as pd
