@@ -155,28 +155,3 @@ def generate_report(url, table_id,europa,europa2,relegated):
         table.rows[idx].set_facecolor(row_colors["relegation"])# Relegated teams
     # Display the final table plot
     plt.show()
-
-
-# In[12]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
